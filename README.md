@@ -1,4 +1,4 @@
-dog_food_research
+Customer Retention for Online Pet Food Sales
 
 This project looks at how to keep online pet food shoppers coming back and staying signed up for monthly subscriptions.
 
